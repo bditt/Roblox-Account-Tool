@@ -14,4 +14,6 @@ Current functions:
 To Do:
   1) Add an unfriend all feature.
   2) Add an unfriend all except feature.
-  3) Add a 
+  3) Add an account creator.
+  4) Add a shirt uploader.
+  5) Add a gambling feature.
